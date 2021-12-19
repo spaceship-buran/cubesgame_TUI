@@ -1,7 +1,12 @@
 from random import randint
 import time
 print('Игра "Кубики v0.1"')
-#Author: Yermakov S.V.
+
+# Copyright Stepan Yermakov 2021.
+# Distributed under the Boost Software License, Version 1.0.
+# (See accompanying file LICENSE_1_0.txt or copy at
+# https://www.boost.org/LICENSE_1_0.txt)
+
 #Date: 18/12/2021
 print()#Спрашиваем у пользователей, как их зовут и сколько "бросков" сделают
 while True: #Предохраняем от ввода одинаковых имён игроков
